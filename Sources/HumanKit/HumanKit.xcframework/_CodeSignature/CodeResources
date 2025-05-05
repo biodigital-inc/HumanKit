@@ -1254,6 +1254,10 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit-Swift.h</key>
 		<data>
+		yDM3+11pHxiJExmStdY6Axhfd84=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit-Swift.h~</key>
+		<data>
 		mBxhn1IXoJj+dqLUB1QWm9ZYbE0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit.h</key>
@@ -5816,6 +5820,17 @@
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yDM3+11pHxiJExmStdY6Axhfd84=
+			</data>
+			<key>hash2</key>
+			<data>
+			tZliOB8jVfKE1uc4+9aeiDGLT/0NMk41zXAHSkB+ofM=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit-Swift.h~</key>
 		<dict>
 			<key>hash</key>
 			<data>
