@@ -1292,6 +1292,22 @@
 		<data>
 		eFvL5TDdBWklq+m4n8pjb4+l07I=
 		</data>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		FKPYgH9WqtDAbHnfwKuhVAmG4G8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		IajR4nyxG4Pyq5wVMG6OJhYxsIQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		vUk7xEhx1+Uj0EepIe1LuOntXq4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		IajR4nyxG4Pyq5wVMG6OJhYxsIQ=
+		</data>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/module.modulemap</key>
 		<data>
 		3tAC7rLcWKU3CJbbvvNTzb5e/70=
@@ -5916,6 +5932,50 @@
 			<key>hash2</key>
 			<data>
 			RsoJnlH9EqO/VRXj9ufR9Cxt79826DV8clFLuJXBkDA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FKPYgH9WqtDAbHnfwKuhVAmG4G8=
+			</data>
+			<key>hash2</key>
+			<data>
+			DN3kkHqBzw6LYUkB94ooEhLaMKFKIt0Ql7Nsbp6JJgc=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IajR4nyxG4Pyq5wVMG6OJhYxsIQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			4m/PjNwd7Ro+aezKIwebTl3SKWKZ/l/8gDr1aVFkLjY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vUk7xEhx1+Uj0EepIe1LuOntXq4=
+			</data>
+			<key>hash2</key>
+			<data>
+			VDQ0EF8ow+kftNDqhxBg0aXyDhwbHDY5jZhI9M7zz8Q=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IajR4nyxG4Pyq5wVMG6OJhYxsIQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			4m/PjNwd7Ro+aezKIwebTl3SKWKZ/l/8gDr1aVFkLjY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Modules/module.modulemap</key>
