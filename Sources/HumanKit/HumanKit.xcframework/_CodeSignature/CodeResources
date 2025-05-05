@@ -1192,6 +1192,10 @@
 		<data>
 		E5Zf49eos+o8h6b2f6v2bfvm5cQ=
 		</data>
+		<key>ios-arm64_x86_64-simulator/HumanKit.framework/.DS_Store</key>
+		<data>
+		+/pSlzmIV0TU1eDLCOaZ05Jnb1E=
+		</data>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/GCDWebServer.h</key>
 		<data>
 		4StA6WlkJlFvra3OWxVarmPlmJ8=
@@ -1254,7 +1258,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit-Swift.h</key>
 		<data>
-		yDM3+11pHxiJExmStdY6Axhfd84=
+		8EeWWGNpGbLG76F9V6aoU6UjWX4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit.h</key>
 		<data>
@@ -5819,11 +5823,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yDM3+11pHxiJExmStdY6Axhfd84=
+			8EeWWGNpGbLG76F9V6aoU6UjWX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tZliOB8jVfKE1uc4+9aeiDGLT/0NMk41zXAHSkB+ofM=
+			2gmmaFme/oP8tqI49Uu+7RJlgksrPE+PEV+ykufPFls=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/HumanKit.framework/Headers/HumanKit.h</key>
