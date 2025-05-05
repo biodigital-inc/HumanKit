@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HumanKit",
-            path: "Sources/HumanKitPackage/HumanKit.xcframework"
+            path: "Sources/HumanKit/HumanKit.xcframework"
         )
     ]
 )
