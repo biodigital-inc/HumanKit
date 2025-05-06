@@ -104,6 +104,10 @@
 		<data>
 		3tAC7rLcWKU3CJbbvvNTzb5e/70=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		0RESd+++ZxZWQhIEMSOOvP7phYs=
+		</data>
 		<key>assets/pp_dummy_cube/geometry.___Shape</key>
 		<data>
 		JXSDiT8RPaovFSMaiIdquYo0SGo=
@@ -1357,6 +1361,13 @@
 			<key>hash2</key>
 			<data>
 			ZPu1QBX7LkAp9+ziQ3lZ0XTQLuI7jsni8yIC2qDCcpg=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pwgfFQbJDo5nMQDlwWHnZbi3piREbiC9S9bvrKgICLg=
 			</data>
 		</dict>
 		<key>assets/pp_dummy_cube/geometry.___Shape</key>
