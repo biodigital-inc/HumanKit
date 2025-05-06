@@ -923,6 +923,12 @@ SWIFT_CLASS("_TtC8HumanKit14HKQuizQuestion")
 @property (nonatomic, copy) NSString * _Nonnull questionType;
 /// display text of the question
 @property (nonatomic, copy) NSString * _Nonnull questionPrompt;
+/// display text for the answer
+@property (nonatomic, copy) NSString * _Nonnull answerExplanation;
+/// answerIds mapped to display text for possible answers
+@property (nonatomic, copy) NSDictionary<NSString *, NSString *> * _Nonnull answers;
+/// object IDs for labelled objects, if any
+@property (nonatomic, copy) NSArray<NSString *> * _Nonnull labels;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

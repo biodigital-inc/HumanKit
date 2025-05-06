@@ -3577,6 +3577,7 @@
             "declAttributes": [
               "HasInitialValue",
               "HasStorage",
+              "AccessControl",
               "ObjC",
               "RawDocComment"
             ],
@@ -3688,6 +3689,7 @@
             "declAttributes": [
               "HasInitialValue",
               "HasStorage",
+              "AccessControl",
               "ObjC",
               "RawDocComment"
             ],
@@ -3821,6 +3823,7 @@
             "declAttributes": [
               "HasInitialValue",
               "HasStorage",
+              "AccessControl",
               "ObjC",
               "RawDocComment"
             ],
@@ -28438,7 +28441,7 @@
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKHuman.swift",
       "kind": "BooleanLiteral",
-      "offset": 10579,
+      "offset": 10552,
       "length": 5,
       "value": "false"
     },
@@ -28466,182 +28469,182 @@
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "StringLiteral",
-      "offset": 624,
+      "offset": 631,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "Dictionary",
-      "offset": 732,
+      "offset": 746,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "Array",
-      "offset": 818,
+      "offset": 839,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "StringLiteral",
-      "offset": 1068,
+      "offset": 1089,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "Array",
-      "offset": 1160,
+      "offset": 1181,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "Array",
-      "offset": 1258,
+      "offset": 1279,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 1334,
+      "offset": 1355,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 1744,
+      "offset": 1765,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 1846,
+      "offset": 1867,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 2012,
+      "offset": 2033,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "IntegerLiteral",
-      "offset": 2156,
+      "offset": 2177,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "IntegerLiteral",
-      "offset": 2292,
+      "offset": 2313,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 2438,
+      "offset": 2459,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 2598,
+      "offset": 2619,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 2752,
+      "offset": 2773,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 2913,
+      "offset": 2934,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "Dictionary",
-      "offset": 3022,
+      "offset": 3043,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "Array",
-      "offset": 3139,
+      "offset": 3160,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "StringLiteral",
-      "offset": 3235,
+      "offset": 3256,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "Array",
-      "offset": 3541,
+      "offset": 3562,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "BooleanLiteral",
-      "offset": 3666,
+      "offset": 3687,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "FloatLiteral",
-      "offset": 3795,
+      "offset": 3816,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "IntegerLiteral",
-      "offset": 3919,
+      "offset": 3940,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "IntegerLiteral",
-      "offset": 4054,
+      "offset": 4075,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "IntegerLiteral",
-      "offset": 4181,
+      "offset": 4202,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKQuiz.swift",
       "kind": "IntegerLiteral",
-      "offset": 4312,
+      "offset": 4333,
       "length": 1,
       "value": "0"
     },

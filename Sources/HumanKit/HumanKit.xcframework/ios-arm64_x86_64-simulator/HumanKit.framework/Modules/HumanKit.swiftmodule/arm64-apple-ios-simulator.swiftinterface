@@ -36,6 +36,9 @@ import os
   @objc public var questionId: Swift.String
   @objc public var questionType: Swift.String
   @objc public var questionPrompt: Swift.String
+  @objc public var answerExplanation: Swift.String
+  @objc public var answers: [Swift.String : Swift.String]
+  @objc public var labels: [Swift.String]
   @objc override dynamic public init()
   @objc deinit
 }
