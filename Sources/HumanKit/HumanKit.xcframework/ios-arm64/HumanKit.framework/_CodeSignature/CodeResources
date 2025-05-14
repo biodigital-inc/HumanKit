@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/HumanKit-Swift.h</key>
 		<data>
-		Pg3AuQlZZi/wz6Mi/TW98l+I0tg=
+		Cq3va2fg1wHgqXZplfF+1EEUNz4=
 		</data>
 		<key>Headers/HumanKit.h</key>
 		<data>
@@ -74,15 +74,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Kd99iXYTqEKiGjAFyvL1vvP0+xk=
+		rHIwHCWR/ffEVgPBiiCMFWqc5SA=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		/r/G3RaoTxUlGnQEW3ItHH6Em1g=
+		svEYxMgbCJ92TDhzrQ6px8abXT0=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		bGN10EyrKyCiCyM9vQzn0sWWMV8=
+		mezgvtv3ghhjPck/W59E5cnDZWE=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0iOWkY106mFU1x5hwbM2Z1YFooY=
+		c4vv3Cic/Vz03BBL1Tgor/NyQnU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1304,7 +1304,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aiS2Adl3uCixQ7Pb/WZMi+BVodNOF0OlSd653f6aePA=
+			UMxdzPbXQYXT6xRgJOBHbhgDNxLZzbKPNuRCuU9dNRs=
 			</data>
 		</dict>
 		<key>Headers/HumanKit.h</key>
@@ -1318,14 +1318,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCJr44RXQkGi8QEENSape1yszljJ8owhbajYif8WPBA=
+			IBXnt5VYD2n9mySRACmsawq6Gw50zOuhDkYMAH3IUPo=
 			</data>
 		</dict>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYynkHuKmxQoc+b2f6M8ixMgNMQJUClRT2ltcxJaZtg=
+			6TDKbzgIZzkZEA2N/oYWw1T9hlblXM33s/808bQCIF8=
 			</data>
 		</dict>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1353,7 +1353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DHnex3joexqwY9KrEm4RmWcWdnDN5giRY1ZZn5BRxsE=
+			JCUVV2WSMG2WMQAl5Gpq46Eb1nfjU/g8eEqBRPyVcUk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

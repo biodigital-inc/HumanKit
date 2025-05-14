@@ -29561,14 +29561,14 @@
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKServices.swift",
       "kind": "StringLiteral",
-      "offset": 3784,
+      "offset": 3822,
       "length": 69,
       "value": "\"https:\/\/apis.biodigital.com\/services\/v1\/content\/collections\/myhuman\""
     },
     {
       "filePath": "\/Users\/garyherman\/code\/human-ios-sdk\/HumanKit\/HumanKit\/HKServices.swift",
       "kind": "StringLiteral",
-      "offset": 3881,
+      "offset": 3919,
       "length": 45,
       "value": "\"https:\/\/apis.biodigital.com\/oauth2\/v1\/token\""
     }
