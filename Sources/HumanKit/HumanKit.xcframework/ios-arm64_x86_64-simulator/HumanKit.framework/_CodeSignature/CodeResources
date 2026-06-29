@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/HumanKit-Swift.h</key>
 		<data>
-		Pg3AuQlZZi/wz6Mi/TW98l+I0tg=
+		l+kQZMH+MR7zHCixCBg5duG4XE4=
 		</data>
 		<key>Headers/HumanKit.h</key>
 		<data>
@@ -74,39 +74,59 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dSr5uJ4p+d6chMIuDc/4vIpO1FY=
+		4yiA55/Ws48pMjRoGdX/fZmEwy4=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		AVTtMRzpHVEqGa8IsgsxBCQFbZw=
+		P8EsJhVGGC8nghLH2rksAQ11/jA=
+		</data>
+		<key>Modules/HumanKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		Pp7yVBrY/A5/+P4ytM2LxsGSrcE=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Pv8UxJiEbV8HVUcMtqQpESwoRcA=
+		s4bjCAoYmwyUbtzXJlm0bbgtgNM=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		JxGLQiqpzlgoL1KgC7WMGT1q5jc=
+		Xe+YWxaxTY24rNBLA7aTOUBMgvs=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CbXJnxlxWd1+aiR+dXCpVIdX1n8=
+		lSo2xqvbOOZgEsGguMgfn9TDhas=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JxGLQiqpzlgoL1KgC7WMGT1q5jc=
+		Xe+YWxaxTY24rNBLA7aTOUBMgvs=
 		</data>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uQ8EwB2hz2HYXa1Vruazu5o88TY=
+		4Syx7GhB7poNcX9D1oHDlIbXJ+g=
+		</data>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		s4bjCAoYmwyUbtzXJlm0bbgtgNM=
+		</data>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		smy2aie0YoDfxCi6tLeOpROVTjs=
+		</data>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		nIvDmmGSx52sDgvJow9sGocOq0A=
+		</data>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		smy2aie0YoDfxCi6tLeOpROVTjs=
+		</data>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		bTgYo8Y6HLQOiOl/3rEiRGqAChs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		3tAC7rLcWKU3CJbbvvNTzb5e/70=
-		</data>
-		<key>PrivacyInfo.xcprivacy</key>
-		<data>
-		0RESd+++ZxZWQhIEMSOOvP7phYs=
+		g39gtEqzLosgJlNRp7g03u6csME=
 		</data>
 		<key>assets/pp_dummy_cube/geometry.___Shape</key>
 		<data>
@@ -146,43 +166,47 @@
 		</data>
 		<key>sdk/192.js</key>
 		<data>
-		ZBP+iqkoW0VTco6ReKC5AkmKUxw=
+		BnIvcU8oxUqCpRvO6SeWm/AxzIg=
 		</data>
 		<key>sdk/256.js</key>
 		<data>
-		bwrstvVkPSGPMv/AkpjvhTvju9Q=
+		o+IxkSYXh08MnxctQjVrZapcNxU=
 		</data>
 		<key>sdk/262.js</key>
 		<data>
-		HC0Qf6t5jnoJM1Jn5umOvuiBf/k=
+		eUdInpogtV1j+HhvmCvfQTXi3J0=
 		</data>
 		<key>sdk/3rdpartylicenses.txt</key>
 		<data>
-		7x5e82fCSBXJYC7H7zc8CLq/RYM=
+		VylZ2d8uaMW+8i+eRCu6cDRyGEA=
 		</data>
 		<key>sdk/457.js</key>
 		<data>
-		Sp92Hfi/BNRHiPG6paKKnIAUngY=
+		jd0jG97ohPm0pygK7YUKwNb3q1U=
 		</data>
 		<key>sdk/471.js</key>
 		<data>
-		SKpT0PmTtL03CjK0R4yYTaz1rAI=
+		hMlrtambiKegdYnDyGUBHRtNIIs=
 		</data>
 		<key>sdk/537.js</key>
 		<data>
-		2bL76sSFQ3x46RIYfv3rvUv8yM4=
+		tBbzpo+U+f0iSUG0sX0oQeaENqE=
 		</data>
 		<key>sdk/661.js</key>
 		<data>
-		0nLcDTIM7oj3M8ofSFbFg+e1jJE=
+		B6E4mgbcu8eM4KLpcYzAtoxLjmo=
+		</data>
+		<key>sdk/774.js</key>
+		<data>
+		nU/82sPufnR0BU7LkleAgQzhXf8=
 		</data>
 		<key>sdk/816.js</key>
 		<data>
-		rJNbZrIA+0ePjwmIR/D/S3HpWGI=
+		gqvMHbOraQBwuQtKcD5ayt4BPKE=
 		</data>
 		<key>sdk/846.js</key>
 		<data>
-		QNltgQ0iYHtgYAGnaDIce71rcsQ=
+		r8pw6I5dpWqw+2DCgzERLhuZTTc=
 		</data>
 		<key>sdk/863.js</key>
 		<data>
@@ -190,7 +214,7 @@
 		</data>
 		<key>sdk/937.js</key>
 		<data>
-		6kufEt4HoxIaPsjGQO6EjP8orj4=
+		BDAGk5/bJhtIydNu5rxypOJerOM=
 		</data>
 		<key>sdk/Inter-Black.woff2</key>
 		<data>
@@ -436,17 +460,17 @@
 		<data>
 		YoR7u72kVMpmS0MFyg1shYRXYvw=
 		</data>
+		<key>sdk/assets/shared/images/cursors/cursor-paint-legacy.svg</key>
+		<data>
+		IH+BsTDYALRb/juG0iwwKeP7RyY=
+		</data>
 		<key>sdk/assets/shared/images/cursors/cursor-paint.png</key>
 		<data>
 		k4ajNMyX5oy/uWV8+Z6N4N9kDTY=
 		</data>
 		<key>sdk/assets/shared/images/cursors/cursor-paint.svg</key>
 		<data>
-		IH+BsTDYALRb/juG0iwwKeP7RyY=
-		</data>
-		<key>sdk/assets/shared/images/cursors/cusor-paint.svg</key>
-		<data>
-		j8FrU1YxcqpZo2Rz9DBzAJ5Xq3c=
+		z0VcpTA0c2zAV4ZSPmYNkYmo6yg=
 		</data>
 		<key>sdk/assets/shared/images/facebook-icon.svg</key>
 		<data>
@@ -528,6 +552,10 @@
 		<data>
 		sqvho9VjyF9RC49vJiCtv7buxW8=
 		</data>
+		<key>sdk/assets/shared/images/loft-logo.svg</key>
+		<data>
+		d+Pwa8Njtf2XRlEyNThkaH4Q40E=
+		</data>
 		<key>sdk/assets/shared/images/logo-biodigital-anatomage-color.svg</key>
 		<data>
 		yh3G4mUz13wVY01n2CCyd4GX2D8=
@@ -555,6 +583,10 @@
 		<key>sdk/assets/shared/images/logo.svg</key>
 		<data>
 		Odys+amhoFeSD5LsBOWL5K2q5cA=
+		</data>
+		<key>sdk/assets/shared/images/ms-symbollockup_signin_light.svg</key>
+		<data>
+		P/gw2CuI31llFhCML9CNONAFt8w=
 		</data>
 		<key>sdk/assets/shared/images/powered-by-biodigital-anatomage-color.svg</key>
 		<data>
@@ -607,6 +639,14 @@
 		<key>sdk/assets/shared/images/social/twitter-share.svg</key>
 		<data>
 		uqWE69hlG3LEPGY03wJ5iuXwjZs=
+		</data>
+		<key>sdk/assets/shared/images/studio-logo-white.svg</key>
+		<data>
+		LEe8jMcrPaKTl0Au+tvcH625A/I=
+		</data>
+		<key>sdk/assets/shared/images/studio-logo.svg</key>
+		<data>
+		crUCz0TLD7EjpCLC05y1+Go3G3o=
 		</data>
 		<key>sdk/assets/shared/images/view-chapter-thumbnail-placeholder.png</key>
 		<data>
@@ -710,11 +750,11 @@
 		</data>
 		<key>sdk/assets/shared/latin/l2bi.json</key>
 		<data>
-		2fMd3tuNh8UfaA4coIrLatOA+Jw=
+		yjRBXfoC6p3x1C44w2Sc6wwQDQ0=
 		</data>
 		<key>sdk/assets/shared/locales/de-DE.json</key>
 		<data>
-		4dU+N4fwh4hnXFeZJPnhE5spypk=
+		0oXqN9EQBbac34H0n/j433wXIB0=
 		</data>
 		<key>sdk/assets/shared/locales/dictionary.json</key>
 		<data>
@@ -722,43 +762,43 @@
 		</data>
 		<key>sdk/assets/shared/locales/en-US.json</key>
 		<data>
-		MBmJT3fW/+HwhCqV/6LdJ5ivU54=
+		0eEk9RKALB7tCdR7s/5sV2fNHpU=
 		</data>
 		<key>sdk/assets/shared/locales/es-ES.json</key>
 		<data>
-		Er67oW8OgEGHzubdOfD2oC1yTfI=
+		ZUwuqbSAgkSouddkL4ANJK8/mbM=
 		</data>
 		<key>sdk/assets/shared/locales/fr-FR.json</key>
 		<data>
-		7oNfTLM5c5ScRc/ebDfY3Uv6LZo=
+		UqeLk8/k1v2L1HOZNem32z3lmFo=
 		</data>
 		<key>sdk/assets/shared/locales/he-IL.json</key>
 		<data>
-		JhPu/zcZ4X+F7FxRslus715NRwA=
+		nFpliRuErPD4SomWBH3z3AOgQ1s=
 		</data>
 		<key>sdk/assets/shared/locales/it-IT.json</key>
 		<data>
-		6WpceFM67zNrfkUka1UaJj95kwM=
+		cpfYQFH0MG0njoC8G8AC2oiclzU=
 		</data>
 		<key>sdk/assets/shared/locales/ja-JP.json</key>
 		<data>
-		+cAdPkRItYbV2JF0p72Z8UgZWvQ=
+		BZf5pBUAf7oBKLGB5sUP3IBti6w=
 		</data>
 		<key>sdk/assets/shared/locales/ja.json</key>
 		<data>
-		7t6P0VwGL43UdUhm7viucVidotI=
+		sFTCooAJw2wSxvmuXfSehMrMpfA=
 		</data>
 		<key>sdk/assets/shared/locales/pt-BR.json</key>
 		<data>
-		98i2SPtI/kmBgCpl1a5aPnjnZeM=
+		pRyub6cQeYNZwueAxwoj965Y5r8=
 		</data>
 		<key>sdk/assets/shared/locales/pt-PT.json</key>
 		<data>
-		gDviWeZD1z4/YyPrg598/hbXtcQ=
+		SjAK2QPDw4qg1B1Kq7wuUlHlTp8=
 		</data>
 		<key>sdk/assets/shared/locales/zh-CN.json</key>
 		<data>
-		AJ93UmZb2/R/OxP0V7hUIDSGW94=
+		IxDZNwE0XU3LlXy+Vc7jw5ZTBfA=
 		</data>
 		<key>sdk/auth.html</key>
 		<data>
@@ -902,7 +942,7 @@
 		</data>
 		<key>sdk/common.js</key>
 		<data>
-		t8nnZmBoSux2skjqPO+HxYWNleQ=
+		WP+DIJNcHZg72khq8D+qS0nHntQ=
 		</data>
 		<key>sdk/connective-tissue.svg</key>
 		<data>
@@ -922,11 +962,11 @@
 		</data>
 		<key>sdk/custom-icons.ttf</key>
 		<data>
-		NHNLgvHTnGuIinRlNPhWJTiuIv8=
+		9mBMF345zZCA78dyVS6Uqo+j91A=
 		</data>
 		<key>sdk/custom-icons.woff2</key>
 		<data>
-		y1hObIftqBj5PA58sDrIQhOG9f4=
+		nShBfFJ++jNTjvJgsTEqGruJzaY=
 		</data>
 		<key>sdk/digestive-system.svg</key>
 		<data>
@@ -943,6 +983,14 @@
 		<key>sdk/fa-solid-900.woff2</key>
 		<data>
 		ZSKnGlSxCb3VunmTBrGrdCbnSvM=
+		</data>
+		<key>sdk/fascia.svg</key>
+		<data>
+		cqUsfY+j25UkncqoH/HMCBQP3+g=
+		</data>
+		<key>sdk/fat.svg</key>
+		<data>
+		wy8pKFSWJTHNsLbJ9TiDuIseZn0=
 		</data>
 		<key>sdk/femaleskin_variants_dark.png</key>
 		<data>
@@ -970,7 +1018,7 @@
 		</data>
 		<key>sdk/index.html</key>
 		<data>
-		VllPBTDWJNCl8UdV5+Ig5twaYc8=
+		e9GByNxp4lEISI/NFaf37G0ESJ0=
 		</data>
 		<key>sdk/integumentary-system.svg</key>
 		<data>
@@ -986,7 +1034,7 @@
 		</data>
 		<key>sdk/main.js</key>
 		<data>
-		VbHzsCXf4YXpc6jCBhAxSGj4W3k=
+		y3AzaZZ4sVK/lo/02P1qP5snLCo=
 		</data>
 		<key>sdk/maleskin_variants_dark.png</key>
 		<data>
@@ -1154,7 +1202,7 @@
 		</data>
 		<key>sdk/polyfills.js</key>
 		<data>
-		AngRhfZLbmlbHM4CMi9QE8//MRk=
+		onkesONqYBvlzkjpC/VArZFf0hQ=
 		</data>
 		<key>sdk/reproductive-system.svg</key>
 		<data>
@@ -1178,7 +1226,7 @@
 		</data>
 		<key>sdk/styles.css</key>
 		<data>
-		bLX6T4gIN30AqBOsk15rBOE1Yfo=
+		/KbahqVLqBvl2jZrT3XBnTdPtTA=
 		</data>
 		<key>sdk/unsupported.html</key>
 		<data>
@@ -1304,7 +1352,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aiS2Adl3uCixQ7Pb/WZMi+BVodNOF0OlSd653f6aePA=
+			9f03X1lWmVUo8bVr4A6qVLzoK73PVtW3pGWnku8oBgM=
 			</data>
 		</dict>
 		<key>Headers/HumanKit.h</key>
@@ -1318,56 +1366,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3seqRBCVOLgIX1dU77NfGG48pJ5K0pCZtVjaof0WyMs=
+			gu4CaV3p9C/i+Rht+E3+kW4NNBC8aBHySbwfOCB3bEo=
+			</data>
+		</dict>
+		<key>Modules/HumanKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yQsuixAIzj4cqTHIaK+Mj4/LmC8g9ft1kD5o8p9Ojqs=
 			</data>
 		</dict>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tciuJtYSj7omRBOq91VL3+Y1GgpCMLtCrBoVa1PSCPc=
+			LrK+/7EVwyy3DJMyl2/lSyzcWgC+QkL1S3lc9Lz51DQ=
 			</data>
 		</dict>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHtpS0OeCjE2rg7zEGUthD0/IarFgC8s0vBxOR1gmXE=
+			3Hev10/hoY0XQftby6N7etInX78iBYrFDpRjKWOhD/0=
 			</data>
 		</dict>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QhUpzXPr9axDgUPlUTBOz4Rc+o+VayekH//shpHdrrY=
+			+jzX2BEwgPh0DofOHg2hZvITaAHm/xDhEZz3uKQPWDU=
 			</data>
 		</dict>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHtpS0OeCjE2rg7zEGUthD0/IarFgC8s0vBxOR1gmXE=
+			3Hev10/hoY0XQftby6N7etInX78iBYrFDpRjKWOhD/0=
 			</data>
 		</dict>
 		<key>Modules/HumanKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TMP4uVpOcELuZvLOLTqI+/9sUjOKFdmseSjZN9XwAmQ=
+			HJRT1Bl+lkC92c+lSOK1Fn4ZolW6wttcjK+FYPm9b4g=
+			</data>
+		</dict>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LrK+/7EVwyy3DJMyl2/lSyzcWgC+QkL1S3lc9Lz51DQ=
+			</data>
+		</dict>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v2t+8fVW56fYf1JDJZoiiGk0/chInPhALLQpzbjZfLo=
+			</data>
+		</dict>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DUlVFFDJbcEnLAmA30b8cB9sKJqroCqo2Nd2vm2/X7U=
+			</data>
+		</dict>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v2t+8fVW56fYf1JDJZoiiGk0/chInPhALLQpzbjZfLo=
+			</data>
+		</dict>
+		<key>Modules/HumanKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s70MRFifLdg2BJ45Ho5nS9ilYobZexBwbcycu4neXN8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZPu1QBX7LkAp9+ziQ3lZ0XTQLuI7jsni8yIC2qDCcpg=
-			</data>
-		</dict>
-		<key>PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pwgfFQbJDo5nMQDlwWHnZbi3piREbiC9S9bvrKgICLg=
+			peq5479kjl3DD6oBvEcDEpS953hSV3/Q03Ynx1BoLSA=
 			</data>
 		</dict>
 		<key>assets/pp_dummy_cube/geometry.___Shape</key>
@@ -1437,70 +1520,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mTSm6vrIdT8kMP8ngfi1uwkOz+LtllRvzDeEu9MF2bY=
+			MEOlG+vRSS2CNo8gyGqS6ftFt7uF1uFeZuRdNLfrb+c=
 			</data>
 		</dict>
 		<key>sdk/256.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			upKSQy5kDJbqXP5rVqbPGOnpM5RSruDyDq2dTjbdFdc=
+			7mm9e123iur8Q6xzGaqBp8Ve7lBGkHfB5sodoN2CqEk=
 			</data>
 		</dict>
 		<key>sdk/262.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DtO0taTCuBE7XqqiKLgs43FzhHQUM2ARkJ1Kx5fQkdg=
+			aSM5zP8zh1B0mnRwa5GErb+X/coTe58jK0BCX2nnGKM=
 			</data>
 		</dict>
 		<key>sdk/3rdpartylicenses.txt</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			reUj4fIfYFBzSBKdFysiwFxQtUWzDyHxjRjXS9JhFdw=
+			NMbdrAJlciDdAxE9dXO9RLEbhanTZml9jzO/siIvX/8=
 			</data>
 		</dict>
 		<key>sdk/457.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3GaRi4xUEhuJuRzWGrDECxbFQHgXkXL1RUMoMCkLdGU=
+			zeTX2Mx4MyHwV9iEoLUyqkwkzIGJ15x+HssAasB0fbw=
 			</data>
 		</dict>
 		<key>sdk/471.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1TicNqgg07ojo/jCcIOe53HFVhgzYpsIm26mW5hZvfE=
+			WFYwjB9yxh/7uOMxM5KxORr5VtkUms/Zk2MrqRc0P3w=
 			</data>
 		</dict>
 		<key>sdk/537.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0cuQfDjILeb5BVh6aKmJNAJcyZ5KHq1r1sZgQCB2bAc=
+			+w74ssi/txPJX8gGiEM3Gza1ymhE3pRgbkw8a8Hd4Gg=
 			</data>
 		</dict>
 		<key>sdk/661.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W8RzxpOqpCd3rwe2rAhOWJmxiji3o9zKj4scIoyTEL4=
+			RUd4cSscbYpEUsZ0//zpU83JFpR0V6Z9gC5UaDnmvaA=
+			</data>
+		</dict>
+		<key>sdk/774.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			glrbrisBn0hroKzoCmLN/CrTaN4j1Uzc1N/636sBe6Q=
 			</data>
 		</dict>
 		<key>sdk/816.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kDM6kywi0sR3v3GwVu72BJTO2Ph7ijP4+JN6FoUYDJQ=
+			wrkY38yM/DI16Lhg85YRhNokRDTa0MBDCcvqfjlKDNE=
 			</data>
 		</dict>
 		<key>sdk/846.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPwUdM+HG0Kmg8OHd54AdfdV2sXDJHSWWMxNjBFBsUU=
+			Rjd0+JuMRZk0cHMFjFFLonJ53EdxlMVJdesVwmxf/OQ=
 			</data>
 		</dict>
 		<key>sdk/863.js</key>
@@ -1514,7 +1604,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8w/hQZd/CUPaC3xGFmYP2yFidbVUvwk9Maql6vVdbAE=
+			I0AKKRcPFKV6aswTRBLGgGTUglL6szMCqJ5ua69NQ8s=
 			</data>
 		</dict>
 		<key>sdk/Inter-Black.woff2</key>
@@ -1944,6 +2034,13 @@
 			f4l2RH/sFsNpOEwDr0SPriQubKSsrI+qv5UYSnXkAng=
 			</data>
 		</dict>
+		<key>sdk/assets/shared/images/cursors/cursor-paint-legacy.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IeS4FHEVJvOOzBz5FZilo08FnqTLbO5XvH9NLxzpYWI=
+			</data>
+		</dict>
 		<key>sdk/assets/shared/images/cursors/cursor-paint.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1955,14 +2052,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IeS4FHEVJvOOzBz5FZilo08FnqTLbO5XvH9NLxzpYWI=
-			</data>
-		</dict>
-		<key>sdk/assets/shared/images/cursors/cusor-paint.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JH4XVjJPbHrCZfagzuFwEV//FoqiqVKYpS8scdhCPTU=
+			zGkwJ9ApeocTEcOs5j3dhYtukQh15V4hMIolB40tCpU=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/images/facebook-icon.svg</key>
@@ -2105,6 +2195,13 @@
 			gYjEmp0nU4NnRv3xktM8QzaZxWBXGkvGB54isUhpIRI=
 			</data>
 		</dict>
+		<key>sdk/assets/shared/images/loft-logo.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			87o04MseEFbepP04uyU7NMN75wYyf0zV227dTBUzDy0=
+			</data>
+		</dict>
 		<key>sdk/assets/shared/images/logo-biodigital-anatomage-color.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -2152,6 +2249,13 @@
 			<key>hash2</key>
 			<data>
 			iC3zArxZ8Sn/ZVK4Zn2lxuRi0J7AW4Ym/NGXppAHi6g=
+			</data>
+		</dict>
+		<key>sdk/assets/shared/images/ms-symbollockup_signin_light.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4G+2ucSJ1XGSYJRbW5EI8S/t135hIGIp9f3XegYOd6g=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/images/powered-by-biodigital-anatomage-color.svg</key>
@@ -2243,6 +2347,20 @@
 			<key>hash2</key>
 			<data>
 			OT/zeWT/kZTx7yy8khyuAyVwF8vEgJDsW0KwiOc//sE=
+			</data>
+		</dict>
+		<key>sdk/assets/shared/images/studio-logo-white.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AwxzjSwk0YMB2752CK0vS6wsk/MbEQbslBJIJxYqbdI=
+			</data>
+		</dict>
+		<key>sdk/assets/shared/images/studio-logo.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rFp2QSIqAje2Y0/ez6WKkCkA5su52tzAwxTLYFIZ6o4=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/images/view-chapter-thumbnail-placeholder.png</key>
@@ -2424,14 +2542,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j28z9wBfYOfYAHTLIRbjRrwfFQAkcBMSGiumbZIU5zY=
+			JimLcR75PmIWsXLxeSYetCnzB/FJrs0a8CcRKxha7So=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/de-DE.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nFsg55AkhoitDwiTEV/jLiRIu16CGY0UpmfkY064R9o=
+			0hfDHGQ6DedQrISlbMtF4mcjj2mPU6Yu9T4Thyapk1M=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/dictionary.json</key>
@@ -2445,70 +2563,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZJRRo/8zKt+nFkXOob0AvVEOeUbDt1ZvdwzHBlHdWgM=
+			YKZJm/sxhgfoX7Pf1dyHBXDBDjyF/KmFp6CyJQ7eHDk=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/es-ES.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NoHKB1tCjAUS9wdDkvACheVrAG4laJhlfv72rMppYBg=
+			aEMCgT7fdZUFnrni16tys+wfwAUL30IXbyvDOQZD7ik=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/fr-FR.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LMui9u9qttquJwaZY71MPz+7yz8fzeCj9m05yFXY5K4=
+			vKcd2YBHi7rBjbJkFKP9rdpQME45dziYSrGfLyVWOSc=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/he-IL.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bCkjeUNXIBZE/tHixmt6BWbO7rNSiAd6LIVH8vlq60o=
+			546KLwnpOaU9z2E3by1+mdrSfW1p/26c8oxiqnW99V4=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/it-IT.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			97DBybCUh9ri+wKX29cvxluXxc6YszUndjwki7a6U/4=
+			2exxV/7Uc3TMCQLdyegzEwUbyqd5jfND2ODha0USpvc=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/ja-JP.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SzYIFHaxYN51+lRrlGsj7iwzg2Qf1hgYBJ4NxRzuJho=
+			pyVM+6VOJxlJPeXYkdQk6WoqK8g5FH9DoOlU2zrG07o=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/ja.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABjjYI2hPK5jUcTPvcj2fIV7FhRJWcN/D+RJpEi6vjw=
+			ZkiiIhSpBv6GMoulH19TlmuDVRUwB7SpM2esx+bto3M=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/pt-BR.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sQkAm4lsAws4utPqxPjFuYY1TosVnq18lRIxn7jIWbc=
+			kbXS893gEDtBbyGYfo4s070X5HZwuWfZo3eLjW8P8tc=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/pt-PT.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAQ9Y+xo4rEY8Xq7Q6zkkqljsUyDMns18SjkyKlekmA=
+			Q4zhZsZDMR62le2IhQs3B7tbYTDmgI+/Wxq4MJNZDpc=
 			</data>
 		</dict>
 		<key>sdk/assets/shared/locales/zh-CN.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pvje3w+m9oElTjOEZQhTBfRaehSyVI0TeVLgVOo01VM=
+			B4fw6Kl8K2YK8rfRntWCR3eC8t++56oemxcQ9ANNvB4=
 			</data>
 		</dict>
 		<key>sdk/auth.html</key>
@@ -2760,7 +2878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MAVwEeB4A4KYhGWoY/w6sYnFyDGyK8nFeXDKZ78G9gM=
+			G8ZFnSxAOm63ahHC+CBCRg5DoHf3hr7txcJtkiH6OFs=
 			</data>
 		</dict>
 		<key>sdk/connective-tissue.svg</key>
@@ -2795,14 +2913,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U8R7uF4QN0TDvN5YTSQAmrdPWa6mhGxIEiWLO1NSoXM=
+			sJV01ARUdcpCppVc/hEtSgZyXoXJIK+RAhl7VtcRvh0=
 			</data>
 		</dict>
 		<key>sdk/custom-icons.woff2</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SOgQb7uyx7dbnoUXQRkb0T1F/NVdHQlwMPhxfDqmJyg=
+			BCePpQgFppb0H6hDlLdzxqIsQEXmiggMp3LSm1if9Cg=
 			</data>
 		</dict>
 		<key>sdk/digestive-system.svg</key>
@@ -2831,6 +2949,20 @@
 			<key>hash2</key>
 			<data>
 			pM4jUB9lijNjI72QtSdG5z4N3Ka+GGUVlNFpsmPbVBA=
+			</data>
+		</dict>
+		<key>sdk/fascia.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			whhMzsYCoG+eLyIG/XwNSrdLNS6cqnhuGWx2IxkyVd4=
+			</data>
+		</dict>
+		<key>sdk/fat.svg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DnzIf0VR6+UdAiSpFJQIEgBObbHfODotN7hsihrGsQo=
 			</data>
 		</dict>
 		<key>sdk/femaleskin_variants_dark.png</key>
@@ -2879,7 +3011,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fpJ/KQ1VWDvB9jZZVUyAomXPaJRpNrJDHt5mcJ7bJYk=
+			OQ3XNEvCEgbryXhzgj3J2rhVvD35aemgaa3S4TsjDqw=
 			</data>
 		</dict>
 		<key>sdk/integumentary-system.svg</key>
@@ -2907,7 +3039,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mkFu/BF0c0UvgpIX9Fkpo6kpAVD8TAHsDeat+pkpV18=
+			CkJkPY3sPi/cwwChuIGsYXC/qYpXmHv1RA9Hg/ISkm4=
 			</data>
 		</dict>
 		<key>sdk/maleskin_variants_dark.png</key>
@@ -3201,7 +3333,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1fUwyaXkIb3IVtrWTBNMOOom5mubgxVdRVUYxIXu/C8=
+			xoEXONpupzV9B3cpxvtCaTk7wXuMzm8y0wW+TPWRdAg=
 			</data>
 		</dict>
 		<key>sdk/reproductive-system.svg</key>
@@ -3243,7 +3375,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dmhZRrHyGoqYwx08iIsYQnGQ0ZlsJwMBEHxHC29alDQ=
+			DiSZCfp5SHuPsK6y4F/C4gVdwoduDFOBQNmV6F4Qza0=
 			</data>
 		</dict>
 		<key>sdk/unsupported.html</key>
