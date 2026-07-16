@@ -1209,6 +1209,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) HKServices *
 - (void)setupWithRoot:(NSString * _Nonnull)root product_key:(NSString * _Nonnull)product_key delegate:(id <HKServicesDelegate> _Nullable)delegate;
 /// Initialize the backend services and authenticate the SDK with an explicit Key and optional Secret
 - (void)setupWithKey:(NSString * _Nonnull)key secret:(NSString * _Nonnull)secret delegate:(id <HKServicesDelegate> _Nullable)delegate;
+/// Returns the API key used to authenticate the SDK, or an empty string if none is set.
+- (NSString * _Nonnull)getApiKey SWIFT_WARN_UNUSED_RESULT;
 /// Initialize the backend services and authenticate the SDK with Key and optional Secret in the Info.plist file
 - (void)setupWithDelegate:(id <HKServicesDelegate> _Nullable)delegate;
 /// Request models associated with your account from our server

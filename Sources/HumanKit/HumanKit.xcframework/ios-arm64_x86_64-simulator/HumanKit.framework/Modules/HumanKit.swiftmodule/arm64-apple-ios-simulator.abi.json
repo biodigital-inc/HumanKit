@@ -26085,6 +26085,30 @@
           },
           {
             "kind": "Function",
+            "name": "getApiKey",
+            "printedName": "getApiKey()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@HumanKit@objc(cs)HKServices(im)getApiKey",
+            "mangledName": "$s8HumanKit10HKServicesC9getApiKeySSyF",
+            "moduleName": "HumanKit",
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setup",
             "printedName": "setup(delegate:)",
             "children": [
@@ -30036,21 +30060,21 @@
     {
       "filePath": "\/Users\/jazzdhandwar\/Desktop\/Projects\/human-ios-sdk\/HumanKit\/HumanKit\/HKHuman.swift",
       "kind": "BooleanLiteral",
-      "offset": 10552,
+      "offset": 10803,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jazzdhandwar\/Desktop\/Projects\/human-ios-sdk\/HumanKit\/HumanKit\/HKHuman.swift",
       "kind": "StringLiteral",
-      "offset": 15506,
+      "offset": 15757,
       "length": 86,
       "value": "\"Please go online to load this model, then you'll be able to access it while offline.\""
     },
     {
       "filePath": "\/Users\/jazzdhandwar\/Desktop\/Projects\/human-ios-sdk\/HumanKit\/HumanKit\/HKHuman.swift",
       "kind": "StringLiteral",
-      "offset": 15616,
+      "offset": 15867,
       "length": 62,
       "value": "\"You're offline.  Please check your connection and try again.\""
     },

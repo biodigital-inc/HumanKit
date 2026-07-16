@@ -309,6 +309,7 @@ import os
   @objc public static let shared: HumanKit.HKServices
   @objc public func setup(root: Swift.String, product_key: Swift.String, delegate: (any HumanKit.HKServicesDelegate)? = nil)
   @objc public func setup(key: Swift.String, secret: Swift.String, delegate: (any HumanKit.HKServicesDelegate)? = nil)
+  @objc public func getApiKey() -> Swift.String
   @objc public func setup(delegate: (any HumanKit.HKServicesDelegate)? = nil)
   @objc public func getModels()
   @objc public func isSignedIn(_ calls: @escaping (Swift.Bool) -> ())
