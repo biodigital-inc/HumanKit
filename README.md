@@ -1,7 +1,7 @@
 # HumanKit
 The BioDigital Human iOS SDK
 
-Current version: 165.5.2 Released September 2026
+Current version: 168.3 Released October 2026
 
 Please visit http://developer.biodigital.com for documentation and setup instructions, and http://human.biodigital.com to see the 3D Human
 
